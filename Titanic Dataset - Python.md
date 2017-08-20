@@ -490,7 +490,7 @@ plt.yticks(np.arange(0, 0.7, 0.1))
 
 
 
-![png](output_29_1.png)
+![png](Graphs/survival_rates_among_age_groups.png)
 
 
 As can be seen from the chart or table above, the 65 or above age group has actually been the least fortunate in terms of survivel rate (although their numbers as a group are really low). However, there is strong evidence that the 0 - 18 years age group got some sort of privilage in the evacuation as they have clearly higher survival rate than the rest.  
