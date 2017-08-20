@@ -594,7 +594,7 @@ plt.legend((p1[0], p2[0]), ('Survived', 'Did not survive'), loc = 'best', bbox_t
 
 
 
-![png](output_43_1.png)
+![png](Graphs/survival_rates_among_classes.png)
 
 
 As can be seen from the chart, the survival rate went higher as the ticket class got better. As one last step, let's calcualte the general survival rate among our data set:
@@ -641,7 +641,7 @@ plt.tight_layout()
 ```
 
 
-![png](output_51_0.png)
+![png](Graphs/gender_ratio_among_passengers.png)
 
 
 Now as next, let's examine what percentage of males and females survived the titanic:
@@ -796,7 +796,7 @@ plt.tight_layout()
 ```
 
 
-![png](output_61_0.png)
+![png](Graphs/survival_rate_across_gender_and_age.png)
 
 
 As can be seen from the chart above, without any exceptions, males had lower survival rates in all of the age groups. The gap seems to be somewhat smaller in the 0 - 18 years age group, which we previously identified as being likely to have some sort of privilage in the evacuation.
